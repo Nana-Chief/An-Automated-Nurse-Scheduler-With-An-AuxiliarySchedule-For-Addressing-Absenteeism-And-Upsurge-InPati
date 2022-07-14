@@ -1,1 +1,1 @@
-# An Automated Nurse Scheduler With An AuxiliarySchedule For Addressing Absenteeism And Upsurge InPatient Demand.
+# An Automated Nurse Scheduler With An Auxiliary Schedule For Addressing Absenteeism And Upsurge InPatient Demand.
